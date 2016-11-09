@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% include head.html %}
+  </head>
   <body>
     <div class="page-content">
       <div class="container">
