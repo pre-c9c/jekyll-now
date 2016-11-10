@@ -1,7 +1,7 @@
 ---
 layout: post
 title: codin9cafe_pre-season_prologue
-category: S01 
+category: Pre-Season 
 description: 코딩카페, 변화를 맞이할 시기입니다.
 ---
 
