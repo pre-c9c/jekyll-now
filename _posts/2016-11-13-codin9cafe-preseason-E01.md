@@ -1,6 +1,6 @@
 ---
 layout: post
-title: codin9cafe_pre-season_E01_Hello World!
+title: codin9cafe_pre-season_E01_"Hello World!"
 category: Pre-Season 
 description: 코딩카페 프리시즌의 첫 이야기를 시작합니다.
 ---
