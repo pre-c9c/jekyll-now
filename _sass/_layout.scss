@@ -279,8 +279,9 @@ p.readmore {
   height: 90px;
   border-radius: 5%;
   -webkit-background-size: cover !important;
-  background-size: cover !important;
+  background-size: contain !important;
   background-position: center center !important;
+  background-repeat: no-repeat;
   margin-right: 10px;
 }
 
