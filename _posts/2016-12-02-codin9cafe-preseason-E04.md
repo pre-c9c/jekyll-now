@@ -1,6 +1,6 @@
 ---
 layout: post
-title: codin9cafe_pre-season_E02_"The codin9cafe"
+title: codin9cafe_pre-season_E04_"The codin9cafe"
 category: Pre-Season 
 description: 라이트닝 토크를 진행해 보는 것은 어떨까요?
 ---
